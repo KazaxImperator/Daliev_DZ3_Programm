@@ -1,0 +1,11 @@
+E:\загруз с инета\Daliev\Daliev_DZ3\Daliev_DZ3\bin\Debug\Daliev_DZ3.exe.config
+E:\загруз с инета\Daliev\Daliev_DZ3\Daliev_DZ3\bin\Debug\Daliev_DZ3.exe
+E:\загруз с инета\Daliev\Daliev_DZ3\Daliev_DZ3\bin\Debug\Daliev_DZ3.pdb
+E:\загруз с инета\Daliev\Daliev_DZ3\Daliev_DZ3\obj\Debug\Daliev_DZ3.csproj.AssemblyReference.cache
+E:\загруз с инета\Daliev\Daliev_DZ3\Daliev_DZ3\obj\Debug\Daliev_DZ3.csproj.SuggestedBindingRedirects.cache
+E:\загруз с инета\Daliev\Daliev_DZ3\Daliev_DZ3\obj\Debug\Daliev_DZ3.Form1.resources
+E:\загруз с инета\Daliev\Daliev_DZ3\Daliev_DZ3\obj\Debug\Daliev_DZ3.Properties.Resources.resources
+E:\загруз с инета\Daliev\Daliev_DZ3\Daliev_DZ3\obj\Debug\Daliev_DZ3.csproj.GenerateResource.cache
+E:\загруз с инета\Daliev\Daliev_DZ3\Daliev_DZ3\obj\Debug\Daliev_DZ3.csproj.CoreCompileInputs.cache
+E:\загруз с инета\Daliev\Daliev_DZ3\Daliev_DZ3\obj\Debug\Daliev_DZ3.exe
+E:\загруз с инета\Daliev\Daliev_DZ3\Daliev_DZ3\obj\Debug\Daliev_DZ3.pdb
